@@ -28,9 +28,14 @@
         $age = 21;
         $gpa = 21.1;
         $isMale = false;
-        
         echo $phrase;
      ?>
+
+      
+     
+      
+
+     
 
 
 </body>

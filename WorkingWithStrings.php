@@ -19,7 +19,7 @@ $replace = str_replace("Duc", "Mango", $phrase);
 echo $replace . "<br/>"; //Duclong => Mango Long.
 
 // 
-$sub = substr($phrase,4,2 ); //lấy ra chuỗi theo tham số chuyền vào.
+$sub = substr($phrase, 4, 2); //lấy ra chuỗi theo tham số chuyền vào.
 echo $sub;
 //     addcslashes($str, $char_list)
 // addslashes($str)
@@ -47,3 +47,5 @@ echo $sub;
 // rtrim($tring,$charlist)
 
 ?>
+
+<!-- //PHP Programming Language Tutorial - Full Course -->
